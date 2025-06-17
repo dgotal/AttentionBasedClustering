@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hyperspectral Band Selection
 
 This repository contains code for hyperspectral band selection and evaluation using attention-based neural networks.
