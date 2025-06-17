@@ -2,6 +2,8 @@
 
 This repository contains code for hyperspectral band selection and evaluation using attention-based neural networks.
 
+![image](https://github.com/user-attachments/assets/91848b3c-3c1d-4b8a-bb5a-6c1d2e7eb4c4)
+
 ## Table of Contents
 
 - [Overview](#overview)
