@@ -23,8 +23,6 @@ This project implements neural network-based band selection for hyperspectral im
 - matplotlib
 - ...
 
-Install all dependencies with:
-
 ## Datasets
 
 The code uses three public hyperspectral datasets. Download them from:
@@ -48,14 +46,11 @@ Replace arguments as needed for your use case.
 ## Results
 
 Results will be printed to the console and saved as figures in the project directory.
+Visualisations:
+  - Confusion matrix
+  - TSNE graph
 
 ## References
-
-- Hyperspectral datasets: [Hyperspectral Remote Sensing Scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)[3]
-- Cite any papers or repositories you used here.
-
-
-=======
-# SCDSC
-The source code of paper: "Scalable Context-Preserving Model-Aware Deep Clustering for Hyperspectral Images"
->>>>>>> master
+- https://ieeexplore.ieee.org/document/9511339
+- https://ieeexplore.ieee.org/document/9737043
+- https://ieeexplore.ieee.org/document/10290100
